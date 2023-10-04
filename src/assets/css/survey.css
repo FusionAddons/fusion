@@ -1,0 +1,30 @@
+.notice.tan-notice.tan-survey {
+    padding: 15px;
+}
+.notice .tan-survey-content h3 {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+p.tan-survey-btn-wrapper {
+    margin: 0;
+}
+.tan-survey-btn-wrapper .tan-survey-btn {
+    display: inline-block;
+    padding: 0.75em;
+    background-color: #4c3f93;
+    transition: 0.4s;
+    border-color: #4c3f93;
+    outline: 0;
+}
+.tan-survey-btn-wrapper .tan-survey-btn:hover {
+    background-color: #554d82;
+}
+.tan-survey-img {
+    float: left;
+    height: 122px;
+    margin-right: 20px;
+}
+.tan-notice.tan-survey .button {
+    margin-left: 0px;
+}

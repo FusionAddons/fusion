@@ -1,0 +1,22 @@
+{
+    "name": "fusion10/plugin",
+    "type": "library",
+    "description": "Boilerplate tool for wordpress",
+    "keywords": ["plugin","boilerplate"],
+    "homepage": "https://github.com/Fusion_Addons/plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Fusion_Addons",
+            "email": "fusion.elementoraddons@gmail.com",
+            "homepage": "https://fusion.sitetask.xyz",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
